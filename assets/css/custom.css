@@ -7,18 +7,13 @@
 /*# sourceMappingURL=custom.css.map */
 @media print {
    body {
-      color: #fff;
-      background: #000;
-   }
-   section__header,
-   .t-section--header .t-section__header {
-      background: #2b2c2c;
-   }
-   section__content {
-       background: #2d2e2e;
+      color: #ffffff;
+      background: #000000;
    }
 }
-@page {
-  size: 5.5in 8.5in;
-   background: blue;
+@media print and (color) {
+   * {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+   }
 }
