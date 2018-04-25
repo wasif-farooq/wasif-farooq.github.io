@@ -10,8 +10,14 @@
     -webkit-print-color-adjust: exact;
     print-color-adjust: exact;
   }
+ html { 
+  background: url(http://bdfjade.com/data/out/52/5589023-red-images.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ }
   @page {
-    background-color: red;
     size: 100%;
     margin: 0pt;
   }
