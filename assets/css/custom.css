@@ -10,9 +10,21 @@
       color: #fff;
       background: #000;
    }
+   section__header,
+   .t-section--header .t-section__header {
+      background: #2b2c2c;
+   }
+   section__content {
+       background: #2d2e2e;
+   }
+   @page {
+     size: 5.5in 8.5in;
+      background: blue;
+   }
 }
 @page {
   size: 5.5in 8.5in;
+   background: red;
 }
 @page {
   size: A4;
