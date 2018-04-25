@@ -11,7 +11,7 @@
       print-color-adjust: exact;
    }
    @page {
-      size: A4;  
-      margin: 0pt 0pt 0pt 0pt;
+      size: 100%;
+      margin: 0pt;
    }
 }
