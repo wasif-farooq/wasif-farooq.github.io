@@ -23,6 +23,7 @@
   p, h3, h4, h5 {
     font-size: 10pt;
   }
+  .o-section__header.c-header__header,
   .t-section__header {
     //background: #282929;
     background: #fff;
