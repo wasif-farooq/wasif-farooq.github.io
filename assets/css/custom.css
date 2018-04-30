@@ -57,6 +57,10 @@
     right: 25px;
     top: 115px;
   }
+  .c-header__social-buttons,
+  .c-footer__social-buttons {
+    display: none;
+  }
   .c-header__contact {
     text-align: left;
   }
