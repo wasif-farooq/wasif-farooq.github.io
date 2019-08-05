@@ -1,0 +1,220 @@
+{
+	"firstName": "wasif",
+	"surname": "farooq",
+	"contact": {
+		"phone": "(92) 332 651 9787",
+		"website": {
+			"title": "sonsor.github.io",
+			"url": "https://sonsor.github.io"
+		},
+		"email": "wasif0332@gmail.com",
+		"skype": "wasiffarooq1122"
+	},
+	"download": "https://raw.githubusercontent.com/sonsor/sonsor.github.io/master/resume-wasif-farooq.pdf",
+	"social": [
+		{
+			"icon": "fa  fa-lg  fa-facebook",
+			"url": "https://web.facebook.com/wasif.farooq.9"
+		},
+		{
+			"icon": "fa  fa-lg  fa-linkedin",
+			"url": "https://www.linkedin.com/in/wasif-farooq-58338345"
+		},
+		{
+			"icon": "fa  fa-lg  fa-linkedin",
+			"url": "https://github.com/sonsor"
+		}
+	],
+	"summary": "Smart, intelligent and creative. Not an average type. I am an idea generator, a problem solver. Always think outside the box and not afraid of breaking rules to be innovative, to find the best solutions for problems. I have 6 years of experience in application design and development. A self-motivated person with strong analytical. I strive for quality in everything I do and enjoy challenges and achieving goals. I work hard for recognition and aim to be a valuable employee and a great leader. Seeking a challenging, responsible and dynamic position in renowned organization where all my energies, knowledge and experience can be effectively utilized for benefit of the organization and enhancement of my career.",
+	"expertise": [
+		"WEB APPLICATIONS DEVELOPMENT",
+		"DATABASE DESIGN",
+		"DATA STRUCTURES",
+		"OBJECT-ORIENTED PROGRAMMING",
+		"DESIGN PATTERNS",
+		"UNIT TESTING",
+		"DEVELOPMENT OPERATIONS"
+	],
+	"skills": [
+		{
+			"name": "PHP / PHP 7.X",
+			"percentage": "97"
+		},
+		{
+			"name": "NODEJS",
+			"percentage": "77"
+		},
+		{
+			"name": "REACT & REDUX",
+			"percentage": "76"
+		},
+		{
+			"name": "JAVASCRIPT",
+			"percentage": "81"
+		},
+		{
+			"name": "NOSQL, MONGODB",
+			"percentage": "79"
+		},
+		{
+			"name": "SQL",
+			"percentage": "83"
+		},
+		{
+			"name": "ZEND FRAMEWORK",
+			"percentage": "72"
+		},
+		{
+			"name": "LARAVEL",
+			"percentage": "67"
+		},
+		{
+			"name": "CODEIGNITER",
+			"percentage": "84"
+		},
+		{
+			"name": "WORDPRESS",
+			"percentage": "90"
+		},
+		{
+			"name": "KNOCKOUTJS",
+			"percentage": "90"
+		},
+		{
+			"name": "HTML / HTML 5",
+			"percentage": "77"
+		},
+		{
+			"name": "CSS / CSS 3",
+			"percentage": "73"
+		},
+		{
+			"name": "SVN, GIT",
+			"percentage": "76"
+		},
+		{
+			"name": "WINDOWS, LINUX, UNIX",
+			"percentage": "78"
+		}
+	],
+	"experince": [
+		{
+			"company": "ZEPTO SYSTEMS LIMITED.",
+			"title": "Senior Software Engineer",
+			"location": "Punjab, Pk",
+			"year": {
+				"start": "2015",
+				"end": "2019"
+			},
+			"description": "As a senior software engineer in zepto systems i interpret written business requirements into technical specification documents, solve complex perfomance problems and architectural challenges. I also integrate the user interface elements those developed by front-end developers."
+		},
+		{
+			"company": "Approsoft.",
+			"title": "Software Engineer",
+			"location": "Punjab, Pk",
+			"year": {
+				"start": "2012",
+				"end": "2015"
+			},
+			"description": "As a software engineer at approsoft i contribute in all phases of the development lifecycle.i develop and deploy nww features to facilitate related procedures and tools if necassary. I performed code maintance and testing."
+		}
+	],
+	"education": [
+		{
+			"degree": "MASTER OF COMPUTER SCIENCE",
+			"institute": "University of Agriculture",
+			"location": "Faisalabad, PK",
+			"duration": {
+				"start": "2010",
+				"end": "2012"
+			},
+			"description": "In master degree i learn data structures and algorithms, object oriented programming, java and vb.net and i done my final thesis and project on university attendenc system that is developed in asp.net and use sql server r2 as database server."
+		},
+		{
+			"degree": "BACHELOR OF SCIENCE",
+			"institute": "Punjab University",
+			"location": "Faisalabad, PK",
+			"duration": {
+				"start": "2007",
+				"end": "2010"
+			},
+			"description": "In this level of education i major in mathematics and computer sciences. i learn how to use mathematics in computer programming to solve complex problems and develop logics."
+		},
+		{
+			"degree": "INTERMEDIATE IN COMPUTER SCIENCES",
+			"institute": "B.I.S.E",
+			"location": "Faisalabad, PK",
+			"duration": {
+				"start": "2005",
+				"end": "2007"
+			},
+			"description": "At started i learn c++ programming as a beginner and learn c language concepts and structure and how can we develop an application in c programming."
+		}
+	],
+	"projects": [
+		{
+			"name": "MOVEIN4",
+			"skills": [
+				"Zend Framework",
+				"React",
+				"Knockoutjs",
+				"Mongodb", 
+				 "RabbitMq", 
+				 "Nodejs", 
+				 "Socket.io", 
+				 "Unix"
+			],
+			"description": "movein offers a comprehensive recruitment solution enabling universities and business schools to effectively manage relationships with candidates from initial contact through to student acceptance and beyond. Provides prospect management, provides online applications, admission management and processing, admission tests to jury to complex decision making and integration with many student management systems."
+		},
+		{
+			"name": "BUSINESS EDUCATION ACADEMY",
+			"skills": [
+				"Codeigniter",
+				"MySql",
+				"HTML5",
+				"CSS3"
+			],
+			"description": "The BE-A is information purpose website the gives information about careers, jobs, training, and courses and purchase course book online in digital for"
+		}
+	],
+	"profiles": [
+		{
+			"name": "linkedin",
+			"icon": "fa  fa-lg  fa-linkedin",
+			"description": "Here is my complete professional profile.",
+			"url": "https://www.linkedin.com/in/wasif-farooq-58338345"
+		},
+		{
+			"name": "github",
+			"icon": "fa  fa-lg  fa-github-alt",
+			"description": "All my open source projects for you analyze.",
+			"url": "https://github.com/sonsor"
+		},
+		{
+			"name": "npm",
+			"icon": "fa fa-lg fa-npm",
+			"description": "All my node/react packages are published here",
+			"url": "https://www.npmjs.com/~sonsor"
+		},
+		{
+			"name": "bitbucket",
+			"icon": "fa  fa-lg  fa-bitbucket",
+			"description": "All my private projects that i am working on or worked on.",
+			"url": "http://bitbucket.com/sonsor"
+		}
+	],
+	"certificates": [
+		{
+			"name": "BEST DEVELOPER IN 2016",
+			"description": "Got declared best developer of year in pakistan team."
+		},
+		{
+			"name": "PHP WORKSHOP",
+			"description": "I attended the php workshop in 2012"
+		},
+		{
+			"name": "1ST PLACE IN INTERMEDIATE IN COLLEGE",
+			"description": "i got first position in intermediate education level in my college."
+		}
+	]
+}
