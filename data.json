@@ -1,7 +1,8 @@
 {
 	"firstName": "wasif",
 	"surname": "farooq",
-	"contact": {
+	"photo": "https://sonsor.github.io/assets/images/sonsor-avatar-xs.jpg",
+	"conta ct": {
 		"phone": "(92) 332 651 9787",
 		"website": {
 			"title": "sonsor.github.io",
