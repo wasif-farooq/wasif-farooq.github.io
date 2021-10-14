@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9e47b67-736d-44c7-a8cc-7b36ede10b68" name="Default Changelist" comment="" />
+    <list default="true" id="c9e47b67-736d-44c7-a8cc-7b36ede10b68" name="Default Changelist" comment="add skills">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595093879865</updated>
       <workItem from="1595093881198" duration="1619000" />
+      <workItem from="1634192769947" duration="532000" />
     </task>
     <servers />
   </component>
@@ -46,13 +50,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="325" y="34" width="1575" height="993" key="SettingsEditor" timestamp="1595094243608">
-      <screen x="0" y="34" width="1920" height="993" />
+    <state x="160" y="40" width="1589" height="1040" key="CommitChangelistDialog2" timestamp="1634193233930">
+      <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="325" y="34" width="1575" height="993" key="SettingsEditor/0.34.1920.993@0.34.1920.993" timestamp="1595094243608" />
-    <state x="539" y="33" width="840" height="1034" key="search.everywhere.popup" timestamp="1595094017132">
-      <screen x="0" y="34" width="1920" height="993" />
-    </state>
-    <state x="539" y="33" width="840" height="1034" key="search.everywhere.popup/0.34.1920.993@0.34.1920.993" timestamp="1595094017132" />
+    <state x="160" y="40" width="1589" height="1040" key="CommitChangelistDialog2/0.40.1920.1040@0.40.1920.1040" timestamp="1634193233930" />
   </component>
 </project>
